@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<LocaleData>
+
+<!--- I have no idea if the text is correct. Blame Google Translator if it means something else -->
+  <LocaleText>
+    <Text>Pulse la tecla "P" para hacer una pausa / reanudar
+Clic izquierdo del ratón o la tecla ' F' para disparar
+Teclas de flecha para mover el jugador buque</Text>
+    <TextID>1</TextID>
+  </LocaleText>
+  
+  <LocaleText>
+    <Text>empezar juego</Text>
+    <TextID>2</TextID>
+  </LocaleText>
+  
+</LocaleData>

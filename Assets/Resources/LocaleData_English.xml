@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<LocaleData>
+
+  <LocaleText>
+    <Text>Press 'P' key to pause / resume
+Mouse left click or 'F' key to shoot
+Arrow keys to move player ship</Text>
+    <TextID>1</TextID>
+  </LocaleText>
+  
+  <LocaleText>
+    <Text>START GAME</Text>
+    <TextID>2</TextID>
+  </LocaleText>
+  
+</LocaleData>
